@@ -12,7 +12,7 @@ This project is designed to assign students to interdisciplinary groups based on
 
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/RondinaMR/students-interdisciplinary-groups.git
     cd students-interdisciplinary-groups
     ```
 
